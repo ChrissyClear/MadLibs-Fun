@@ -4,13 +4,77 @@ body {
     height: 600px;
 }
 
+h1 {
+    text-align: center;
+    margin-left: 380px;
+}
+
 p {
     background-color: rgb(240, 248, 255, 0.3);
     font-size: 24px;
     text-align: left;
     text-shadow: 1px 1px rgb(255, 248, 220);
     margin-left: 150px;
-    margin-top: 160px;
+    margin-top: 80px;
     padding: 15px;
 }
 
+.button {
+    background-color: aliceblue;
+    border: none;
+    color: black;
+    /* padding: 15px 32px; */
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }  
+
+.button1 {
+    border: 2px solid green;
+}
+
+.button1:hover {
+    background-color: green;
+}
+
+.button2 {
+    border: 2px solid blue;
+}
+
+.button2:hover {
+    background-color: blue;
+}
+
+.button3 {
+    border: 2px solid pink;
+}
+
+.button3:hover {
+    background-color: pink;
+}
+
+.button4 {
+    border: 2px solid orangered;
+}
+
+.button4:hover {
+    background-color: orangered;
+}
+
+.button5 {
+    border: 2px solid indigo;
+}
+
+.button5:hover {
+    background-color: indigo;
+}
+
+.button6 {
+    border: 2px solid yellow;
+}
+.button6:hover {
+    background-color: yellow;
+}
