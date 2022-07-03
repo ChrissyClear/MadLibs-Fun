@@ -1,0 +1,8 @@
+body {
+    background-color: rgb(0, 255, 255);
+}
+
+p {
+    background-image: url(../img/dogs.jpg);
+    font-size: 46px;
+}
